@@ -1,59 +1,38 @@
 <div align="center">
 
-# Dreamy Records
+# Phos'Prism
 
-東方Projectアレンジ楽曲を中心に活動する同人音楽サークル
+**INTO THE LIGHT.**
 
-2022年結成
+東方同人音楽アレンジサークル Phos'Prism の GitHub です。
 
+[Website](https://phosprism.com) ・ [X](https://x.com/phosprism) ・ [YouTube](https://www.youtube.com/@Dreamy_Records) ・ [Discord](https://discord.com/invite/aTrtVQp4RQ)
 
-
-[Official Website](https://dreamy-records.net) 
 </div>
 
 ---
+
+## Repositories
+
+| Repository | Description |
+| --- | --- |
+| [phosprism.com](https://github.com/phosprism/phosprism.com) | 公式サイト（Astro / TypeScript / GSAP） |
 
 ## About
 
-Dreamy Recordsは2022年に結成された東方同人音楽アレンジサークルです。
+Phos'Prism は、2026年にみょん（Arr.）とくだけん（Staff）を中心に結成した7人組のサークルです。
+トランスやハードミュージックを軸に、東方Projectのアレンジ楽曲を制作しています。
+前身の Dreamy Records の作品も、公式サイトでアーカイブとして公開しています。
 
-楽曲制作を中心に、活動しています。
+## Members
 
----
+| Name | Role |
+| --- | --- |
+| みょん | 編曲 / DJ / ボーカル / 代表 |
+| えちえちマンたかし | 作詞 |
+| ぺねろぺ | 作詞 / ボーカル |
+| 常世ライカ | ボーカル |
+| くだけん | 事務 / デザイン / 映像 / Web |
+| ジャンク大好き人間 | サポート |
+| ナオノット | 運搬 / 搬入 / サポート |
 
-## Activities
-
-* 東方Projectアレンジ楽曲制作
-* アルバム・EPリリース
-* 同人イベント参加 (例大祭、コミケなど)
-* Webコンテンツ制作 (ホームページ)
-* コミュニティ運営 (Discord)
-
----
-
-## Links
-
-### Official Website
-
-https://dreamy-records.net
-
-### GitHub Organization
-
-https://github.com/Dreamy-Records
-
-### X (Twitter)
-
-https://x.com/Dreamy_Records
-
-### YouTube
-
-https://youtube.com/@Dreamy_Records
-
-### Discord
-
-https://discord.gg/aTrtVQp4RQ
-
-
----
-
-</div>
